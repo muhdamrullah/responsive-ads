@@ -1,7 +1,7 @@
 $(function(){
 
 var picCount=0;  
-var picArray= ["http://bit.ly/1uxYSSb","http://bit.ly/1oOrsO6","https://media.giphy.com/media/3o85fVTFUtaFUhB1Ze/giphy.gif","https://media.giphy.com/media/3oGRFE0qeWw4CLsP7O/giphy.gif"];
+var picArray= ["http://bit.ly/1uxYSSb","https://media.giphy.com/media/26CYzLeA6jmwetE9W/giphy.gif","https://media.giphy.com/media/3o85fVTFUtaFUhB1Ze/giphy.gif","https://media.giphy.com/media/3oGRFE0qeWw4CLsP7O/giphy.gif"];
 nextPic();
 
 function nextPic() { 
