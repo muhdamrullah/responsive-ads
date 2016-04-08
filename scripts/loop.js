@@ -8,6 +8,6 @@ function nextPic() {
    picCount=(picCount+1<picArray.length) ? picCount+1 : 0;
    $("#HomeRooms img").prop('src', picArray[picCount]);
    setTimeout(function() {
-       nextPic();},3000);
+       nextPic();},10000);
   }
 });
