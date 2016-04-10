@@ -1,7 +1,7 @@
 $(function(){
 
 var picCount=0;  
-var picArray= ["https://media.giphy.com/media/l4hLy5WvoC7mA6vPq/giphy.gif","https://media.giphy.com/media/26CYzLeA6jmwetE9W/giphy.gif","https://media.giphy.com/media/3o85fVTFUtaFUhB1Ze/giphy.gif","https://media.giphy.com/media/3oGRFE0qeWw4CLsP7O/giphy.gif"];
+var picArray= ["https://media.giphy.com/media/l4hLy5WvoC7mA6vPq/giphy.gif","https://media.giphy.com/media/26CYzLeA6jmwetE9W/giphy.gif","https://media.giphy.com/media/3o85fVTFUtaFUhB1Ze/giphy.gif","https://media.giphy.com/media/l0LIX7gSPKtg8oHT2/giphy.gif"];
 nextPic();
 
 function nextPic() { 
