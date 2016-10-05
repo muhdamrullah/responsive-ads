@@ -5,7 +5,8 @@ var picArray= [
    'https://i.imgur.com/RvtwB06.jpg',
    'https://i.imgur.com/v6twhPo.jpg',
    'https://i.imgur.com/eCHMDaC.jpg',
-   "http://i.giphy.com/xT1XGUd5IT0dwQLJKw.gif",
+   'http://i.imgur.com/6OqXqqY.jpg',
+   "http://i.imgur.com/84riGwY.jpg",
 ];
 nextPic();
 
