@@ -3,8 +3,8 @@ $(function(){
 var picCount=0;  
 var picArray= [
    'https://i.imgur.com/RvtwB06.jpg',
-   'https://media.giphy.com/media/26CYzLeA6jmwetE9W/giphy.gif',
-   'https://media.giphy.com/media/3o85fVTFUtaFUhB1Ze/giphy.gif',
+   'https://i.imgur.com/v6twhPo.jpg',
+   'https://i.imgur.com/eCHMDaC.jpg',
    "http://i.giphy.com/xT1XGUd5IT0dwQLJKw.gif",
 ];
 nextPic();
